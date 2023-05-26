@@ -1,1 +1,4 @@
+Vercel is not showing idex directly because is inside a folder or idk why.
+I toggled a setting on vercel to navigate in the folders when you open the page.
+Please go directly to pages, then it takes the index one immedietly and you can see it all good.
 https://task1-dice.vercel.app
