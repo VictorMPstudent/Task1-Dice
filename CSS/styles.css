@@ -41,20 +41,14 @@ a{
 a:hover{
     color:#a7a7a7;
 }
-.top-cloud{
-    position: absolute;
-    right: 300px;
-    top: 50px;
-}
-.bottom-cloud{
-    position: absolute;
-    left: 300px;
-    bottom: 600px;
+.pro{
+    text-decoration: underline;
 }
 .intro{
     width: 30%;
     margin: auto;
 }
+
 .top-container{
     background-color: #CFE8A9;
     padding-top: 100px;
@@ -66,16 +60,21 @@ a:hover{
     background-color: #CFE8A9;
     padding: 50px 0 16px;
 }
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 600px;
+}
 .code-img{
     height: 18%;
     width: 18%;
     float: left;
     margin-right: 5%;
-}
-.skill-row{
-    width: 50%;
-    margin: 100px auto 100px auto;
-    text-align: left;
 }
 .tenis-img{
     height: 18%;
@@ -83,10 +82,24 @@ a:hover{
     float: right;
     margin-right: 5%;
 }
+.WebReferences{
+    font-size: 5px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
 .contact-message{
     width: 35%;
     margin: 40px auto 60px;
 }
+.copyright{
+    color: #40514E;
+    font-size: 0.75rem;
+    padding: 20px 0 0;
+}
+
 .btn {
     background: #e81515;
     background-image: -webkit-linear-gradient(top, #e81515, #b00c0c);
