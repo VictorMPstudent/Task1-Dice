@@ -83,3 +83,7 @@ a:hover{
     float: right;
     margin-right: 5%;
 }
+.contact-message{
+    width: 35%;
+    margin: 40px auto 60px;
+}
