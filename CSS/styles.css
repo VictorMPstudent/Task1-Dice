@@ -87,3 +87,29 @@ a:hover{
     width: 35%;
     margin: 40px auto 60px;
 }
+.btn {
+    background: #e81515;
+    background-image: -webkit-linear-gradient(top, #e81515, #b00c0c);
+    background-image: -moz-linear-gradient(top, #e81515, #b00c0c);
+    background-image: -ms-linear-gradient(top, #e81515, #b00c0c);
+    background-image: -o-linear-gradient(top, #e81515, #b00c0c);
+    background-image: linear-gradient(to bottom, #e81515, #b00c0c);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e82525;
+    background-image: -webkit-linear-gradient(top, #e82525, #cf2727);
+    background-image: -moz-linear-gradient(top, #e82525, #cf2727);
+    background-image: -ms-linear-gradient(top, #e82525, #cf2727);
+    background-image: -o-linear-gradient(top, #e82525, #cf2727);
+    background-image: linear-gradient(to bottom, #e82525, #cf2727);
+    text-decoration: none;
+  }
