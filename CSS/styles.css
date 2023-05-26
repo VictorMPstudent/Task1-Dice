@@ -77,3 +77,9 @@ a:hover{
     margin: 100px auto 100px auto;
     text-align: left;
 }
+.tenis-img{
+    height: 18%;
+    width: 18%;
+    float: right;
+    margin-right: 5%;
+}
