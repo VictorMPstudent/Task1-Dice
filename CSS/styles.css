@@ -41,3 +41,13 @@ a{
 a:hover{
     color:#a7a7a7;
 }
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 600px;
+}
