@@ -51,3 +51,29 @@ a:hover{
     left: 300px;
     bottom: 600px;
 }
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.top-container{
+    background-color: #CFE8A9;
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #CFE8A9;
+    padding: 50px 0 16px;
+}
+.code-img{
+    height: 18%;
+    width: 18%;
+    float: left;
+    margin-right: 5%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
