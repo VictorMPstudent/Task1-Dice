@@ -1,4 +1,9 @@
-Vercel is not showing idex directly because is inside a folder or idk why.
+Please download the repository, it works better.
+
+Vercel is not showing idex directly because is inside a folder or idk why. It doesn't open de Dice game either. This is very frustrating,
+as with de downloaded version all works perfect.
 I toggled a setting on vercel to navigate in the folders when you open the page.
-Please go directly to pages, then it takes the index one immedietly and you can see it all good.
+Please go directly to pages, then it takes the index one immedietly and you can see it all good, exept entering the Dice game.
 https://task1-dice.vercel.app
+
+https://github.com/VictorMPstudent/Task1-Dice
